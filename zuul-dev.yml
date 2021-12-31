@@ -1,4 +1,4 @@
 blackIp:
-  continueCounts: 15    # ip连续请求的次数
-  timeInterval: 15    # ip判断的事件间隔，单位：秒
-  limitTimes: 25         # 限制的事件，单位：秒
+  continueCounts: 18    # ip连续请求的次数
+  timeInterval: 18    # ip判断的事件间隔，单位：秒
+  limitTimes: 28         # 限制的事件，单位：秒
